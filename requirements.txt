@@ -40,6 +40,7 @@ google-resumable-media==2.7.2
 googleapis-common-protos==1.67.0
 grpcio==1.70.0
 grpcio-status==1.70.0
+gunicorn==23.0.0
 h11==0.14.0
 httplib2==0.22.0
 id==1.5.0
@@ -109,10 +110,12 @@ tzdata==2024.1
 uritemplate==4.1.1
 urllib3==2.2.3
 uv==0.4.10
+uvicorn==0.34.2
 virtualenv==20.27.1
 vonage==3.17.1
 vonage-jwt==1.1.1
 vonage-utils==1.1.2
+whitenoise==6.9.0
 WinToaster==0.1.0
 wrapt==1.16.0
 zipp==3.21.0
