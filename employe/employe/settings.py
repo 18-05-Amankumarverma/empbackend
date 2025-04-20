@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-o=wnzv8fwg@@t@@+^d#l)$jv8mw$a5lb61k#bp2co701mcuy)+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://empbackend-mjxi.onrender.com','localhost','127.0.0.1']
 
 
 # Application definition
