@@ -1,4 +1,5 @@
 annotated-types==0.7.0
+anyio==4.9.0
 asgiref==3.8.1
 backports.tarfile==1.2.0
 bcrypt==4.3.0
@@ -43,6 +44,7 @@ grpcio-status==1.70.0
 gunicorn==23.0.0
 h11==0.14.0
 httplib2==0.22.0
+httptools==0.6.4
 id==1.5.0
 idna==3.8
 importlib_metadata==8.6.1
@@ -90,6 +92,9 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
 pyttsx3==2.97
 pytz==2024.2
+pywin32==306
+pywin32-ctypes==0.2.3
+PyYAML==6.0.2
 readme_renderer==44.0
 requests==2.32.3
 requests-toolbelt==1.0.0
@@ -113,6 +118,8 @@ virtualenv==20.27.1
 vonage==3.17.1
 vonage-jwt==1.1.1
 vonage-utils==1.1.2
+watchfiles==1.0.5
+websockets==15.0.1
 whitenoise==6.9.0
 WinToaster==0.1.0
 wrapt==1.16.0
