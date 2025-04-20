@@ -90,8 +90,6 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
 pyttsx3==2.97
 pytz==2024.2
-pywin32==306
-pywin32-ctypes==0.2.3
 readme_renderer==44.0
 requests==2.32.3
 requests-toolbelt==1.0.0
